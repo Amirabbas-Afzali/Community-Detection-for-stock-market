@@ -1,0 +1,20 @@
+1. K-means clustering                                                           خوبه
+2. Hierarchical clustering (Agglomerative or Divisive)                                                 خوبه
+3. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)     جواب نمیده 
+4. OPTICS (Ordering Points To Identify the Clustering Structure)                           خوبه
+5. Mean Shift clustering                                    					جواب نمیده
+6. Spectral clustering                           						خوبه
+7. Affinity Propagation								خوبه تقریبا
+8. Gaussian Mixture Models (GMM) 							جواب نمیده
+9. Self-Organizing Maps (SOM)
+10. Fuzzy C-means clustering
+11. BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies)          متوسط
+##### 12. CLARA (Clustering Large Applications)    
+13. ROCK (Robust Clustering using Links)
+14. COBWEB (Categorical Clustering Based on the Web)
+15. PAM (Partitioning Around Medoids)
+16. CURE (Clustering Using Representatives)
+17. CHAMELEON (Hierarchical Clustering using Dynamic Modeling)             کنکل
+18. DENCLUE (DENsity-based CLUstEring)              
+19. X-means clustering
+20. Agglomerative Information Bottleneck (AIB) clustering
